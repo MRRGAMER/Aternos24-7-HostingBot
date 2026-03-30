@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7_b0t",
+    "username": "mallu boy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "piyushnproiz.aternos.me",
-    "port": 60258,
+    "ip": "lottas.aternos.me",
+    "port": 37218,
     "version": "",
     "try-creative": false
   },
